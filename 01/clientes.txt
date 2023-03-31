@@ -1,0 +1,6 @@
+abc	def
+avx	easd
+eds	es
+joao	acre
+paulo	sao paulo	rua abacaxi	1928	199212123	23	masculino
+Guto	Santa Barbara	Jardim Esmeralda	Rua do cobre	1873	(11)99323-2345	33	naoinformar
